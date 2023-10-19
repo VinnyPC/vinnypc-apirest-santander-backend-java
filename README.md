@@ -67,7 +67,7 @@ classDiagram
   }
 
   class UnidadeEndereco {
-    unid_id: Int
+    + unidade: Unidade
     + endereco: Endereco
   }
 
